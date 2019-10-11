@@ -1,0 +1,2 @@
+2019-10-11 19:30:22.359[WARN]  biz-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-10-11 19:30:22.378[WARN]  resttemplate-stat.log configured stat_log_interval=60 second and default cycle=60
