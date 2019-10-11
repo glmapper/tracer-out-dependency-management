@@ -16,3 +16,5 @@ git clone https://github.com/glmapper/tracer-out-dependency-management.git
 3、curl http://localhost:8080/test
 
 4、在系统根目录下 查看 logs/tracerlog
+
+> 注意：SOFABoot 3.2.0 版本有较大改动，SOFATracer 依赖了 SOFABoot 3.2.0 版本之前的一些 API ，所以工程使用的版本是 SOFABoot 3.1.5 。如果需要使用 3.2.0 版本，请不要使用此方式。
